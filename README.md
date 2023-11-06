@@ -50,9 +50,13 @@ The key findings and insights from the analysis include:
 The project includes a series of visualizations created using Tableau to represent the data and findings effectively.
 
 - [Story 1: TO FIND WHY THE MAJORITY OF CLAIMS HAVE COME FROM THE MIDDLE AGE GROUP (60-80).](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259314/Story.1.zip)
+- ![Screenshot 2023-11-06 164306](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data./assets/142217254/daf4cbda-790c-4e02-b257-9a2f90eb5d5b)
 - [Story 2: ANALYSING WHY WOMEN HAS CLAIMED MORE TIMES THAN MEN](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259321/Story.2.zip)
+- ![Screenshot 2023-11-06 164419](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data./assets/142217254/a122d085-b8ea-4605-a838-47537f74bcd4)
 - [Story 3: TO FIND WHY SUV'S HAS MOST CLAIMS](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259322/Story.3.zip)
+- ![Screenshot 2023-11-06 164755](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data./assets/142217254/1198b0bb-3636-43a9-b6b3-e8929c0d8b94)
 - [Story 4: TO ANALYSE WHY SUV'S ARE MOST POPULAR AMONG CAR'S.](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259323/Story.4.zip)
+- ![Screenshot 2023-11-06 164927](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data./assets/142217254/32491ab8-9465-4080-bce1-834fd836cb23)
 
 ## Tools Used
 
